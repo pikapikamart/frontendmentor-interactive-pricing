@@ -27,12 +27,12 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop-view](Finished/desktop-preview.png)
-![Mobile-view](Finished/mobile-preview.png)
+![Desktop-view](finished/desktop-preview.png)
+![Mobile-view](finished/mobile-preview.png)
 
 ### Links
 
-Live Site URL: [Live site of the challenge hosted here](https://pikapikamart.github.io/frontendmentor-blogr/)
+Live Site URL: [Live site of the challenge hosted here](https://pikapikamart.github.io/frontendmentor-interactive-pricing/)
 
 ## My process
 
