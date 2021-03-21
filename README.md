@@ -1,6 +1,6 @@
-# Frontend Mentor - Crowdfunding product page solution
+# Frontend Mentor - Interactive pricing component solution
 
-This is a solution to the [Crowdfunding product page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/crowdfunding-product-page-7uvcZe7ZR). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Interactive pricing component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-pricing-component-t0m8PIyY8). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -27,16 +27,16 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop-view](finished/desktop-preview.png)
-![Mobile-view](finished/mobile-preview.png)
+![Desktop-view](finished/desktop.png)
+![Mobile-view](finished/mobile.png)
 
 ### Links
 
-Live Site URL: [Live site of the challenge hosted here](https://pikapikamart.github.io/frontendmentor-interactive-pricing/)
+Live Site URL: [Live site of the challenge hosted here](https://pikapikamart.github.io/frontendmentor-blogr/)
 
 ## My process
 
-This second challenge was pretty fun since I don't almost build accordion likes object and I made just using css with no js, but other part with js. This part of my everyday 1 frontend mentor project, but, I will be pausing for now since freelance work is calling me. But I will resume and continue making 1 everyday project
+This third challenge that I made was also fun, I mean everything was fun. This challenge is the first time that I customized an input range and was confusing at first but got good at it. Anyway back to work just slipped this little challenge in the time. Happy Coding^^
 
 ### Built with
 
