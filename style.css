@@ -304,6 +304,16 @@ input[type=radio] {
   position: absolute;
 }
 
+input[type=radio]:first-of-type {
+  margin-top: 0.5rem;
+  width: 5rem;
+}
+
+input[type=radio]:last-of-type {
+  margin: 0.5rem 0 0 1.1rem;
+  width: 4.4rem;
+}
+
 .d-text {
   color: #293356;
 }
@@ -367,7 +377,7 @@ input[type=radio] {
         grid-template-columns: 1fr;
     -ms-grid-rows: (auto)[4];
         grid-template-rows: repeat(4, auto);
-    padding: 2.625rem 2rem 2rem;
+    padding: 2.625rem 1.5rem 2rem;
     text-align: center;
   }
   .top__views {
